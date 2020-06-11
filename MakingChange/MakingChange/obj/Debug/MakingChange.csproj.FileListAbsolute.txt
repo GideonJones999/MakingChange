@@ -1,0 +1,6 @@
+c:\users\jonesgid000\documents\visual studio 2017\Projects\MakingChange\MakingChange\obj\Debug\MakingChange.csprojResolveAssemblyReference.cache
+c:\users\jonesgid000\documents\visual studio 2017\Projects\MakingChange\MakingChange\bin\Debug\MakingChange.exe.config
+c:\users\jonesgid000\documents\visual studio 2017\Projects\MakingChange\MakingChange\bin\Debug\MakingChange.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\MakingChange\MakingChange\bin\Debug\MakingChange.pdb
+c:\users\jonesgid000\documents\visual studio 2017\Projects\MakingChange\MakingChange\obj\Debug\MakingChange.exe
+c:\users\jonesgid000\documents\visual studio 2017\Projects\MakingChange\MakingChange\obj\Debug\MakingChange.pdb
